@@ -1,0 +1,6 @@
+-- =============================================================================
+-- SCRIPT 01: INICIALIZACIÓN
+-- =============================================================================
+-- NOTA: Conectarse a su servidor Postgres y ejecutar la creación o limpieza base.
+-- DROP DATABASE IF EXISTS control_inventario;
+-- CREATE DATABASE control_inventario;

@@ -1,4 +1,6 @@
--- CREATE DATABASE control_inventario WITH TEMPLATE = template0;
+
+
+CREATE DATABASE control_inventario WITH TEMPLATE = template0;
 
 -- =============================================================================
 -- 0. LIMPIEZA PREVIA
